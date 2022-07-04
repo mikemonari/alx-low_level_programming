@@ -3,11 +3,9 @@
 #include <stdio.h>
 
 /**
-*more headers goes there
-*betty style doc for function main goes there
-*Entry - main
-*Return: Always(0)
-*Description: variables, if, else
+*main - Entry point
+*Return: Always 0 (Success)
+*Description: 'variables, if, else'
 */
 
 int main(void)
