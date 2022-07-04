@@ -8,6 +8,6 @@
 int main(void)
 
 {
-	printf("anything");
+	printf("Holberton School");
 	return (0);
 }
