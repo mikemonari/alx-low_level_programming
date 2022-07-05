@@ -3,9 +3,9 @@
  * main - check the code
  * int print_last_digit -> prints the last digit of a number.
  * Return: Always 0
- *
+ * @n: the last digit
  */
-int print_last_digit(int)
+int print_last_digit(int n)
 {
 	int x;
 
