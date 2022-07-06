@@ -1,10 +1,10 @@
 #include <stdio.h>
 
+void positive_or_negative(int i) 
 /**
  * main - causes an infinite loop
  * Return: 0
  */
-
 int main(void)
 {
 	int i;
