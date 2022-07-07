@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * is_digit - checks for a digit
+ * _isdigit - checks for a digit
  * Return: success
  * @c: an interger argument
  */
