@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * is_digit -> checks for a digit
- * Return: something Always
+ * is_digit - checks for a digit
+ * Return: success
+ * @c: an interger argument
  */
 int _isdigit(int c)
 {
