@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * _puts - this function puts
  * @str: a param to _puts function
  */
