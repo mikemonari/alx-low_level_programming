@@ -1,2 +1,3 @@
 #!/bin/bash
-ar rc lib.a *.c
+gcc -wall -wextra -werror -pedantic -c *.c
+gcc rc liball.a *.o
